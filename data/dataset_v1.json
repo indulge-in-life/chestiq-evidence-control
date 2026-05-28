@@ -1,0 +1,32 @@
+{
+  "dataset_name": "NIH Chest X-ray",
+  "version": "v1",
+  "source": "Kaggle NIH Chest X-rays",
+  "input_file": "Data_Entry_2017.csv",
+  "num_records": 112120,
+  "data_type": "Multi-label classification",
+  "fields": [
+    "Image Index",
+    "Finding Labels",
+    "Patient ID",
+    "Patient Age",
+    "Patient Gender",
+    "View Position"
+  ],
+  "key_characteristics": [
+    "Multiple disease labels per image",
+    "Class imbalance present (No Finding dominant)",
+    "Repeated patient records",
+    "Includes demographic metadata (age, gender)"
+  ],
+  "known_risks": [
+    "Bias due to class imbalance",
+    "Potential data leakage due to repeated patient IDs",
+    "Label noise in multi-label annotations",
+    "No fairness validation performed"
+  ],
+  "usage": "Baseline dataset for model_v1",
+  "status": "draft",
+  "created_on": "2026-05-28",
+  "owner": "Pravin"
+}
