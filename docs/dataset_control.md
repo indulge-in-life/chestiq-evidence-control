@@ -19,3 +19,13 @@
   - patient-level split
 - Introduce fairness evaluation (gender/age)
 - Track dataset usage per model version
+
+## Assessment Approach
+
+The dataset was not reviewed manually in full. Instead, a combination of:
+
+- Sample inspection of records
+- Pattern observation in label distribution
+- Review of patient identifiers
+
+was used to identify key risks such as multi-label complexity, repeated patient records, and class imbalance.
