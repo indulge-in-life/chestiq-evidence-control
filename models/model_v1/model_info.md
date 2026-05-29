@@ -44,3 +44,11 @@ Detect abnormalities in chest X-ray images (e.g., pneumonia, infiltration, mass)
 ## Status
 
 Draft (Not approved for production use)
+
+---
+
+## Control Considerations
+
+- Model must not be evaluated without recording dataset version
+- Any dataset update requires model retraining (new version)
+- Model outputs must be linked to evaluation evidence before approval
