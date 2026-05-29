@@ -29,3 +29,9 @@ The dataset was not reviewed manually in full. Instead, a combination of:
 - Review of patient identifiers
 
 was used to identify key risks such as multi-label complexity, repeated patient records, and class imbalance.
+
+
+# Traceability Links
+
+- Models: model_v1
+
