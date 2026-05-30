@@ -35,3 +35,25 @@ was used to identify key risks such as multi-label complexity, repeated patient 
 
 - Models: model_v1
 
+---
+
+## Dataset Version v2
+
+### Purpose
+Improve dataset quality and reduce risks identified in v1
+
+### Changes
+- Class imbalance reduced through sampling
+- Improved representation of minority classes
+- Consideration of patient-level grouping to reduce leakage
+
+### Impact
+- Expected improvement in model fairness
+- Reduced bias in predictions
+
+### Remaining Risks
+- Sampling may reduce diversity
+- Bias may still exist without full validation
+
+### Traceability Links
+- Models: model_v2
