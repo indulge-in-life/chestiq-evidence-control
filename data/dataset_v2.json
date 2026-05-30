@@ -1,0 +1,25 @@
+{
+  "dataset_name": "NIH Chest X-ray",
+  "version": "v2",
+  "source": "Derived from dataset_v1",
+  "input_file": "Data_Entry_2017.csv",
+  "changes_from_v1": [
+    "Improved class balance through sampling",
+    "Reduced dominance of 'No Finding' class",
+    "Patient-level grouping considered to reduce leakage"
+  ],
+  "reason_for_update": [
+    "Address class imbalance",
+    "Reduce bias in model predictions",
+    "Improve fairness and reliability"
+  ],
+  "known_risks": [
+    "Sampling may reduce dataset size",
+    "Bias may still persist without full validation"
+  ],
+  "usage": "Improved dataset for model_v2",
+  "status": "controlled",
+  "created_on": "2026-05-30",
+  "owner": "Pravin"
+}
+``
