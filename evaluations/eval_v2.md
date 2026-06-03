@@ -37,6 +37,11 @@ dataset_v2
 
 ---
 
+## Ethical Considerations
+
+- Bias and fairness risks considered based on dataset imbalance
+- Further evaluation required across demographic attributes (age, gender)
+
 ## Traceability Links
 
 - Dataset: data/dataset_v2.json
