@@ -36,3 +36,8 @@
 - No automation of traceability (manual documentation)
 - No deployment monitoring or post-release tracking
 - No clinical validation in real-world settings
+
+## Ethical Risks
+
+- Potential bias across demographic groups not fully evaluated
+- Lack of fairness metrics may impact responsible AI compliance
