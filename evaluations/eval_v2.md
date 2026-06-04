@@ -3,6 +3,9 @@
 ### Model
 model_v2
 
+### Artifact ID
+EV-002
+
 ### Dataset
 dataset_v2
 
