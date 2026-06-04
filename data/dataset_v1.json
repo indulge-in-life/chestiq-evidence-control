@@ -1,5 +1,6 @@
 {
   "dataset_name": "NIH Chest X-ray",
+  "Artifact ID": "DS-001",
   "version": "v1",
   "source": "Kaggle NIH Chest X-rays",
   "input_file": "Data_Entry_2017.csv",
