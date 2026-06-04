@@ -3,6 +3,9 @@
 ### Version
 v2
 
+### Artifact ID
+MDL-002
+
 ### Purpose
 Improved model trained on controlled dataset
 
