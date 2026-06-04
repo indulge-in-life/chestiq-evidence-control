@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project demonstrates a structured approach to ensuring traceability, evidence control, and audit readiness in an AI-based chest X-ray analysis system.
+This repository implements an audit-ready evidence control framework for AI systems operating in regulated environments.
 
 ## Problem
 
