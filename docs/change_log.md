@@ -2,6 +2,9 @@
 
 ### v1 → v2
 
+### Artifact ID
+CHG-001
+
 #### Changes
 - Dataset updated to reduce class imbalance
 - Model retrained using improved dataset
