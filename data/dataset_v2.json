@@ -1,5 +1,6 @@
 {
   "dataset_name": "NIH Chest X-ray",
+  "Artifact ID": "DS-002",
   "version": "v2",
   "source": "Derived from dataset_v1",
   "input_file": "Data_Entry_2017.csv",
