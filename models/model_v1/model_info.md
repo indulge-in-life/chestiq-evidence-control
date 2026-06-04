@@ -3,6 +3,9 @@
 ### Model Name
 Chest X-ray Classifier
 
+### Artifact ID
+MDL-001
+
 ### Version
 v1
 
