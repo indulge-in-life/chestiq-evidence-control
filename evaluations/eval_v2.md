@@ -1,13 +1,13 @@
 ## Evaluation Report
 
 ### Model
-model_v2
+MDL-002
 
 ### Artifact ID
 EV-002
 
 ### Dataset
-dataset_v2
+DS-002
 
 ---
 
