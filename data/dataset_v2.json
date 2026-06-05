@@ -2,6 +2,9 @@
   "dataset_name": "NIH Chest X-ray",
   "Artifact ID": "DS-002",
   "version": "v2",
+  "Related Change": "CHG-001",
+  "Related Risk": "RSK-001",
+  "Used By": "MDL-002"
   "source": "Derived from dataset_v1",
   "input_file": "Data_Entry_2017.csv",
   "changes_from_v1": [
