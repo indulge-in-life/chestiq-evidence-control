@@ -1,4 +1,4 @@
-| Requirement | Dataset | Model | Evaluation | Prompt | Status |
-|------------|--------|------|-----------|--------|--------|
-| Detect abnormalities | dataset_v1 | model_v1 | eval_v1 | prompt_v1 | Rejected |
-| Detect abnormalities | dataset_v2 | model_v2 | eval_v2 | prompt_v2 | Approved |
+| Requirement | Dataset ID | Model ID | Evaluation ID | Change ID | Risk ID | Prompt | Status |
+|------------|-----------|------|-----------|--------|--------|--------|-------|
+| Detect abnormalities | DS-001 | MDL-001 | EV-001 | prompt_v1 | Rejected |
+| Detect abnormalities | DS-002 | MDL-002 | EV-002 | prompt_v2 | Approved |
