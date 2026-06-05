@@ -6,6 +6,12 @@ v2
 ### Artifact ID
 MDL-002
 
+### Dataset 
+DS-002
+
+### Evaluation Evidence
+EV-002
+
 ### Purpose
 Improved model trained on controlled dataset
 
